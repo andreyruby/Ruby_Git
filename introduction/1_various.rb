@@ -23,3 +23,5 @@ puts Math.sqrt(i+j)
 puts i
 =end
 puts name = "Zaphod"
+a = (1..23)
+puts a
